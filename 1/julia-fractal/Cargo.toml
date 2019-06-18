@@ -1,0 +1,11 @@
+[package]
+name = "julia-fractal"
+version = "0.1.0"
+authors = ["Billy Rhoades <billyarhoades@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+num = "0.2.0"
+crossbeam = "0.7.1"
+num_cpus = "1.0"
+sdl2 = "*"
