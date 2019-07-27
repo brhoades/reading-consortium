@@ -67,7 +67,7 @@ Summary:
  * Lifetime parameters are only needed in function signatures and type definitions.
  * When being used, Rust will infer variable lifetimes from the call / initialization.
 
-### Example (returning)
+#### Example (returning)
 Function works!
 
 Summary:
